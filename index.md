@@ -61,17 +61,19 @@ Bit -
 
 Byte -
 
+BDD - Behavior Driven Design.
+
 #### C
 
 Command Prompt - See Terminal
 
 Compiler -
 
-CSV -
+CSV - Comma Separated Values. It is essentially a plain text spread sheet.
 
 #### D
 
-DNS - See Domain Name
+DNS - See Domain Name; Domain Name System.
 
 Database -
 
@@ -97,11 +99,11 @@ Hexidecimal -
 
 HTTP -
 
-HTML -
+HTML - Hyper-Text Markup Language. The standardized language for webpages.
 
 #### I
 
-IP -
+IP - Internet Protocol. 
 
 #### J
 
