@@ -89,6 +89,8 @@ Escape Character -
 
 #### G
 
+Gephi - A network analysis tool. Best used for large interaction datasets. https://gephi.org/
+
 GIS -
 
 Git -
@@ -103,7 +105,7 @@ HTML - Hyper-Text Markup Language. The standardized language for webpages.
 
 #### I
 
-IP - Internet Protocol. 
+IP - Internet Protocol.
 
 #### J
 
@@ -137,7 +139,11 @@ Normalization -
 
 Open-Source -
 
+OpenRefine - A tool that is great for making mass changes to data. http://openrefine.org/
+
 #### P
+
+Palladio - A visualization tool that uses a .csv file to create connections or maps. These connections can be scaled to show magnitude. http://hdlab.stanford.edu/palladio-app/#/upload
 
 Plaintext -
 
@@ -155,6 +161,8 @@ Router - A local network hub, through which all computers on the network access 
 
 #### S
 
+Segrada - Semantic graph tool. This tool can match entities added by the user to create a graph of connections. Great for keeping track of connections through time and space for historical research. https://segrada.org/
+
 Serialized -
 
 Slack -
@@ -162,6 +170,8 @@ Slack -
 SQL -
 
 #### T
+
+Tableau: A visualization tool that also allows for public posting of projects. Incredibly handy and makes stunning visualizations. (Link is for Tableau Public: https://public.tableau.com/en-us/s/download)
 
 Terminal -
 
@@ -186,3 +196,5 @@ Whitespace -
 #### Y
 
 #### Z
+
+Zotero - A bibliographic tool which can read websites to pull data and then create citations (both footnote and full bibliography entries). https://www.zotero.org/
